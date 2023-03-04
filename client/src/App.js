@@ -1,11 +1,14 @@
 import './App.css';
-import ComingSoon from "./images/coming-soon.png";
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import Home from "./pages/Home/index";
 
 function App() {
   return (
-    <div>
-      <img className="app_coming-soon" src={ComingSoon} alt="Coming soon!" />
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
