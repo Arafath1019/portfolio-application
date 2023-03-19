@@ -4,10 +4,10 @@ function Intro() {
   return (
     <div className="h-[80vh] bg-primary flex flex-col items-start justify-center gap-8 py-10">
       <h1 className="text-white text-2xl">{"𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />"}</h1>
-      <h1 className="text-6xl text-secondary font-semibold">
+      <h1 className="text-6xl sm:text-3xl text-secondary font-semibold">
         I'm Yeasin Arafath
       </h1>
-      <h1 className="text-5xl text-white font-semibold">
+      <h1 className="text-5xl sm:text-3xl text-white font-semibold">
         Building things for the INTERNET!
       </h1>
       <p className="text-white w-2/3">
