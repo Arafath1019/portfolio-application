@@ -16,6 +16,8 @@ function Intro() {
         <p className="text-white w-2/3">
           Software Engineer at&nbsp;
           <a
+            target="_blank"
+            rel="noreferrer"
             href="https://bjitgroup.com/"
             class="font-medium text-rose-300 hover:underline transition-all duration-500 ease-in-out"
           >
@@ -23,6 +25,8 @@ function Intro() {
           </a>
           & Bachelor of Science in Computer Science and Engineering from&nbsp;
           <a
+            target="_blank"
+            rel="noreferrer"
             href="https://www.cuet.ac.bd/"
             class="font-medium text-rose-300 hover:underline transition-all duration-500 ease-in-out"
           >
