@@ -5,7 +5,7 @@ function Loader() {
     <div className="h-screen flex items-center justify-center fixed inset-0 bg-primary">
       <div className="flex">
         <lottie-player
-          src="https://assets9.lottiefiles.com/datafiles/oXJaXGcR6nvGGTR/data.json"
+          src="https://assets1.lottiefiles.com/packages/lf20_8y9IYf.json"
           background="transparent"
           speed="1"
           loop
